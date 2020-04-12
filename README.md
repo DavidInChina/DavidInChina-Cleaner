@@ -9,9 +9,9 @@
 可以在这里先预览一波最终的成果:
 [代码地址](https://github.com/DavidInChina/DavidInChina-Cleaner)
 
-![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225407.png ''列表'')
-![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225446.png ''列表'')
-![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225516.png ''列表'')
+![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225407.png)
+![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225446.png)
+![列表页面](https://github.com/DavidInChina/DavidInChina-Cleaner/blob/master/device-2020-04-12-225516.png)
 
 ##然后怎么做
 + 找到要管理的文件们
@@ -150,6 +150,7 @@
         }
     }
 ```
+
 到这里我们就拿到了需要管理的微信缓存文件，下面的步骤就是常规图片文件选择器之类的列表文件展示了（具体可以看代码，这边不再赘述）。最后讲下删除的时候要注意本地文件存储和内存列表的同步。
    
  
