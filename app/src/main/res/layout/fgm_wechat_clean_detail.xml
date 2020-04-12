@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f0f0f0"
+        android:drawableLeft="@mipmap/ic_remind"
+        android:drawablePadding="3dp"
+        android:gravity="left|center_vertical"
+        android:padding="13dp"
+        android:text="@string/str_wechat_remider_img"
+        android:textColor="#717171"
+        android:textSize="13sp" />
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tl_theme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="#0e7dee"
+        app:tabIndicatorFullWidth="true"
+        app:tabIndicatorHeight="2dp"
+        app:tabMode="fixed"
+        app:tabPaddingBottom="2dp"
+        app:tabPaddingEnd="12dp"
+        app:tabPaddingStart="12dp"
+        app:tabPaddingTop="2dp"
+        app:tabSelectedTextColor="#0e7dee"
+        app:tabTextAppearance="@style/tablayoutThemeSmall"
+        app:tabTextColor="#969696" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="4dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+</LinearLayout>

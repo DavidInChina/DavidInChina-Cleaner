@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e7dee</color>
+    <color name="colorPrimaryDark">#0e7dee</color>
+    <color name="colorAccent">#0e7dee</color>
+
+    <color name="colorPrimaryEnd">#0e7dee</color>
+
+    <color name="colorDangerStart">#EB4D4D</color>
+    <color name="colorDangerEnd">#FF6464</color>
+
+    <color name="colorBtnGreen">#0bae4d</color>
+
+    <color name="itemDividerColor">#14000000</color>
+    <color name="bottom_bar">#675deb</color>
+
+    <color name="progressBgColor">#3d000000</color>
+    <color name="progressFillColor">#fff</color>
+    <!--for home item-->
+    <color name="home_item_bg">#00000000</color>
+    <color name="home_item_bg_on">#1C000000</color>
+    <color name="home_area_bg">#4dffffff</color>
+    <color name="home_text_sel">#ffffff</color>
+    <color name="home_text">#ccffffff</color>
+    <!--for app mgr-->
+    <color name="color_orange">#FF9800</color>
+    <color name="color_red">#f04f4f</color>
+    <color name="cardPercentGrey">#82898d</color>
+    <color name="temp_red_hot">#f04f4f</color>
+    <color name="temp_red_cool">@color/colorPrimary</color>
+
+    <!-- for card -->
+    <color name="card_auto_boost">#4194F2</color>
+    <color name="card_floating">#ff9736</color>
+    <color name="card_charge_master">#7cca74</color>
+    <color name="card_app_lock">#8944e6</color>
+    <color name="card_sdcard">#3b4788</color>
+    <color name="card_net_master">#ae7dff</color>
+    <color name="card_games">#f4b039</color>
+    <color name="card_notification_cleaner">#82e08d</color>
+    <color name="card_cooler">#28c0db</color>
+    <color name="card_ram">#836fff</color>
+    <color name="card_battery_saver">#1DBC90</color>
+    <color name="card_storage_cleaner">#0CA3FB</color>
+    <color name="card_app_manager">#4252AD</color>
+
+    <color name="msg_red">#ea1a62</color>
+    <!-- boost -->
+    <color name="dash_percent_temp_alert_color">#ffa619</color>
+    <color name="notification_divider_grey">#7FBDBDBD</color>
+    <color name="cloud_ovals">#1A000000</color>
+    <!--smart lock-->
+    <color name="start_bg">#2e81e9</color>
+    <color name="end_bg">#675deb</color>
+    <color name="color_native_ad_title">#424242</color>
+    <color name="color_native_ad_description">#9e9e9e</color>
+
+    <!-- fast boost -->
+    <color name="color_grey">#607d8a</color>
+
+    <!-- fast boost -->
+    <color name="dialog_disable_color">#bbbaba</color>
+    <color name="rocket_space_light_blue">#2e81e9</color>
+    <color name="rocket_space_dark_blue">#675deb</color>
+    <!--floating window-->
+    <color name="floating_line">#80ffffff</color>
+    <color name="floating_bg">#80000000</color>
+
+    <!--advanced tool-->
+    <color name="tool_bg">#ffffff</color>
+    <color name="tool_select_bg">#1c000000</color>
+    <color name="tool_text_title">#675deb</color>
+    <color name="tool_title">#2e81e9</color>
+    <color name="tool_flag_bg">#fff04f4f</color>
+    <color name="me_text">#675deb</color>
+    <color name="me_tab_total_num">#00fefb</color>
+
+    <color name="green_start">#2e81e9</color>
+    <color name="green_end">#675deb</color>
+    <color name="orange_start">#fb7837</color>
+    <color name="orange_end">#fb7837</color>
+    <color name="border_line">#1a000000</color>
+
+    <color name="charge_monitor_text">#ffa619</color>
+
+    <color name="card_gree_light">#b2ef52</color>
+    <color name="black_start">#00000000</color>
+    <color name="black_end">#7f000000</color>
+    <!--for guide-->
+    <color name="guide_title">#ffffff</color>
+    <color name="guide_text">#ccffffff</color>
+
+    <color name="notify_boost">@color/white</color>
+
+    <color name="color_av_scan_bg">@color/colorPrimary</color>
+    <color name="thread_green">#00face</color>
+    <color name="color_av_scan_virus_count">#fff04f4f</color>
+    <color name="btn_pressed">#66A6A6A6</color>
+    <color name="btn_default">@android:color/transparent</color>
+    <color name="hs_divider_bg_color">#fafafa</color>
+    <color name="av_scan_white_list_app_name">#4c4d4f</color>
+
+    <!-- for virus cards-->
+    <color name="card_virus_detail_key">#000000</color>
+    <color name="card_virus_name">#EC4E4E</color>
+    <color name="card_virus_detail_value">#5D5E60</color>
+    <color name="card_virus_uninstall">#009BFA</color>
+    <color name="av_bg_color_danger">#EB4D4D</color>
+    <color name="av_white_list_label_bg">#1A2e81e9</color>
+    <color name="virus_alert_content">#555555</color>
+    <color name="rtp_show_pass_act_divider">#dcdcdc</color>
+    <color name="guide_mask_bg">#BF2e0000</color>
+    <color name="card_find_wifi_risk">#ff4747</color>
+    <color name="card_wifi_threat">#505050</color>
+    <color name="card_wifi_tip">#838383</color>
+    <color name="clip_board_manager_header_bg">#ededed</color>
+
+    <color name="permission_guide_bottom_msg_2">#838383</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimaryText">@android:color/white</color>
+    <color name="color_green">#0DCA5A</color>
+    <color name="disable_grey">#BDBDBD</color>
+
+    <color name="primaryTextColor">#4e4e4e</color>
+    <color name="secondaryTextColor">#8e8e8e</color>
+
+    <!-- for applock -->
+    <color name="pattern_bg1">#1a0e7dee</color>
+    <color name="font_light_gray">#b7b7b7</color>  <!--字体浅灰色-->
+    <color name="line_color">#eaeaea</color>
+    <color name="bg_notification_toggle">@color/colorPrimary</color>
+
+    <color name="ram_warning">#ff9736</color>
+    <color name="large_file_pager_indicator">@android:color/white</color>
+    <color name="large_file_tab_title">#86BEF6</color>
+    <color name="large_file_underline">#1AFFFFFF</color>
+    <color name="large_file_select_all">#909090</color>
+    <color name="large_file_clean_btn">#11cc72</color>
+    <color name="progress_circle">#00C7FF</color>
+    <color name="item_large_file_name">#717171</color>
+    <color name="item_large_file_size">#bbbbbb</color>
+    <color name="large_file_clean_btn_disable">#C6C6C6</color>
+    <color name="large_file_info">#767676</color>
+    <color name="notification_guide_status">#012B39</color>
+    <color name="color_light_blue">#1ba2f9</color>
+    <color name="schedule_scan_detail">#717171</color>
+    <color name="color_wechat_grey">#979797</color>
+    <color name="notif_alert_btn">#11cc72</color>
+
+    <!--for auto boost-->
+    <color name="color_AAFFFFFF">#AAFFFFFF</color>
+    <color name="color_DE000000">#de000000</color>
+    <color name="color_FF4970F2">#ff4970f2</color>
+    <color name="color_ff536dfe">#ff536dfe</color>
+    <color name="color_88EAEAEA">#88eaeaea</color>
+    <color name="color_FF505050">#FF505050</color>
+    <color name="color_FF536dfe">#FF536dfe</color>
+    <color name="color_FFB6B6B6">#FFB6B6B6</color>
+    <color name="colorBtnBluePressed">#AA4286F4</color>
+    <color name="colorBtnBlue">#FF4286F4</color>
+
+    <color name="color_abcef8">#ffabcef8</color>
+</resources>
